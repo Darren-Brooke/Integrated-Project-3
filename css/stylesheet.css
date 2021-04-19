@@ -1,0 +1,162 @@
+ body {
+    padding-top: 100px;
+  }
+
+
+#collapseElements{
+    text-align: center !important;
+    
+}
+
+.navbar-nav{
+    padding-right: 0 !important;
+    text-align: center !important;
+    color: black !important;
+    
+}
+.navbar-nav, a{
+
+    color: black !important;
+    text-align: center !important;
+}
+
+.navbar{
+    background-color: #4787C8 !important;
+}
+
+.dropdown-menu{
+    background-color: #4787C8 !important;
+}
+
+
+.tutorial-link{
+    color: #0645AD !important;
+    text-decoration: underline;
+}
+
+#map{
+    height: 100%;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+   
+}
+
+.weather_map{
+    height: 50% !important;
+    width: 75% !important;
+    
+}
+
+/*Weather Page*/
+
+.map{
+	padding-left: 0;
+}
+.scrollable{
+    height: 5%;
+    overflow-y: scroll;
+
+    
+}
+
+
+.side-nav{
+	padding-right: 0;
+	color: black; 
+	
+	
+	
+}
+
+.vis_panel{
+    margin-top: 10px;
+    border-width: 2px;
+    border-color: black;
+    box-shadow: 10px 10px 5px grey;
+}
+
+
+
+/* Trivia Quiz*/
+.card-body{
+    
+    padding: 0 !important;
+    
+}
+.card{
+    margin-top: 10px;
+    
+    
+    box-shadow: 10px 10px 5px grey;
+    
+}
+
+.card2{
+    margin-top: 10px;
+    border-width: 1px;
+
+    
+}
+
+.content1{
+  
+  height: 400px;
+  overflow-x: hidden;
+  font-size: 15px;
+  color: black !important;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.verticalLine {
+  border-right: solid #4787C8 ;
+  
+}
+
+
+
+/* End of Weather Page */
+
+
+/* Crime data visualisation page */
+
+svg {
+    font: 10px sans-serif;
+    shape-rendering: crispEdges;
+  }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+  }
+ 
+  path.domain {
+    stroke: none;
+  }
+ 
+  .y .tick line {
+    stroke: #ddd;
+  }
+
+
+/* End of Crime data visualisation page */
+
+/* JavaScript tutorial page */
+
+.code-snippet {
+    font-style: italic;
+}
+
+
+/* End of JavaScript tutorial page */
+
+/* Star Wars Visualisation */
+
+.sm-sidenav {
+    color: lightblue;
+}
+
+
+/* End of Star Wars Visualisation
